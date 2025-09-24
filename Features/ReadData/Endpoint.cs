@@ -1,6 +1,6 @@
 using FastEndpoints;
 
-public class MyEndpoint : EndpointWithoutRequest<Response>
+public class ReadData : EndpointWithoutRequest<Response>
 {
     public override void Configure()
     {
