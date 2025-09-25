@@ -1,3 +1,5 @@
+namespace Features.ReadData;
+
 public class Response
 {
     public string Name { get; set; }

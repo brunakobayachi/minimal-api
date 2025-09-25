@@ -1,5 +1,6 @@
 using FastEndpoints;
 
+namespace Features.ReadData;
 public class ReadData : EndpointWithoutRequest<Response>
 {
     public override void Configure()
